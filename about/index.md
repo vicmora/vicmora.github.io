@@ -2,6 +2,7 @@
 layout: default
 title: Victor Mora - About
 ---
-	<h1>{{ page.title }}</h1>
+
+# {{ page.title }}
 
 Under constructions
