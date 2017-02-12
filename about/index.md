@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Victor Mora - About
+title: About
 ---
 
 # {{ page.title }}
