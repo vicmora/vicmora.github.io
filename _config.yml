@@ -1,4 +1,4 @@
 theme: jekyll-theme-dinky
-title: Victor Mora
-description: My notes and projects!
+title: Victor Mora - Data Analysis & Data Visualization
+description: Notes on Data Analysis & Data Visualization
 permalink: /blog/:year/:month/:day/:title
