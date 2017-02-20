@@ -1,3 +1,8 @@
-# Home
+---
+layout: default
+title: Home
+---
 
-Feel free to use the navigation on the left to view more about me or see what I'm working on!
+# {{ page.title }}
+
+I am really passionate about everything data: analytics, visualization, dashboards, business intelligence, podcasts, books, subreddits, stackoverflow, and blogs. I currently spend most of my time in Python, SQL, and JavaScript.
