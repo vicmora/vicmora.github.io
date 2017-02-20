@@ -1,4 +1,4 @@
 theme: jekyll-theme-cayman
 title: Data Analytics & Visualization
-descriptions: by Victor Mora
+description: by Victor Mora
 permalink: /blog/:year/:month/:day/:title
