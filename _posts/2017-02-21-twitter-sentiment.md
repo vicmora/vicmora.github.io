@@ -1035,6 +1035,8 @@ plotly.offline.iplot({
 }, show_link=False)
 ```
 
+<a href="/assets/html_files/twitter_bubble_plot.html" target="_blank"><img src="/assets/images/twitter_bubble_plot.png"></a>
+
 [Click for interactive plot]![png](/assets/images/twitter_sentiment_2.png)(twitter_bubble_plot.html)
 
 ### Next Steps
