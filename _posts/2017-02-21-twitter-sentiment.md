@@ -1035,9 +1035,9 @@ plotly.offline.iplot({
 }, show_link=False)
 ```
 
-<a href="/assets/html_files/twitter_bubble_plot.html" target="_blank"><img src="/assets/images/twitter_bubble_plot.png"></a>
+Click for interative plot:
 
-[Click for interactive plot]![png](/assets/images/twitter_sentiment_2.png)(twitter_bubble_plot.html)
+<a href="/assets/html_files/twitter_bubble_plot.html" target="_blank"><img src="/assets/images/twitter_bubble_plot.png"></a>
 
 ### Next Steps
 - Explore other features such as the followers_count field as a proxy for the "reach" that each tweet has.
