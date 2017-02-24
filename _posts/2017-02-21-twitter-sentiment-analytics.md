@@ -1,5 +1,5 @@
 
-The purpose of this analysis is to analyze monthly Twitter sentiment. For this analysis, I focused on one sentiment metric: the probability of positive sentiment and deviations from the mean.
+The purpose of this analysis is to take an initial look at monthly Twitter sentiment. If you haven't yet, be sure to check-out my Twitter Sentiment - Gather Data post as it dives into how I gathered the data. There's so much to explore but in order to refine my scope, I focused on one sentiment metric: the probability of positive sentiment and deviations from the mean.
 
 
 ```python
