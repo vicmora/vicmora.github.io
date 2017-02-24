@@ -1,6 +1,5 @@
 
-The first step in this project was to gather Twitter data and quantify the sentiment of each tweet. The Twitter API only allowed me to retrieve history for a max of 7 days. This wasn't enough data so the data needed to be scraped. Luckily, while searching around I found a package called Get Old Tweets helped me do this. I also used another package called TextBlob to quantify the sentiment of each tweet.
-
+The first step in this project was to gather Twitter data and quantify the sentiment of each tweet. The Twitter API only allowed me to retrieve history for a max of 7 days. This wasn't enough data so the data needed to be scraped. Luckily, while searching around I found a package called Get Old Tweets helped me do this. I also used another package called TextBlob to quantify the sentiment of each tweet. Find the code at my [GitHub repo](https://github.com/vicmora/twitter_sentiment) as well.
 
 ```python
 import datetime
