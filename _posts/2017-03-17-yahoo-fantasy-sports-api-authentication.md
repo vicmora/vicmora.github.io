@@ -1,13 +1,13 @@
 
 I've been playing Fantasy Football on Yahoo for a few years and have been itching to enhance my experience with data-driven decisions. This is the year. The first thing I am doing is plugging into the Yahoo Fantasy Sports API an seeing what I can do.
 
-The first step in this process is to create an app with Yahoo. Creating an app provides a unique consumer key and a consumer secret. With the unique consumer key and consumer secret, Yahoo is able to provide access to protected resources. Apps can be created at the following link: https://developer.yahoo.com/apps/
+The first step in this process is to create an app with Yahoo. Creating an app provides a unique consumer key and a consumer secret. With the unique consumer key and consumer secret, Yahoo is able to provide access to protected resources. Apps can be created at the following link: [Yahoo - My Apps](https://developer.yahoo.com/apps/)
 
 In this post, I'll walk through how I connected to the Yahoo Fantasy Sports API using Python. I'll also start putting together a module for this project. It turns out that the initial setup proved to be more difficult than expected. However, I came across across the following two repos that helped:
 
-https://github.com/dkempiners/python-yahooapi/
+[Python-YahooAPI](https://github.com/dkempiners/python-yahooapi/)
 
-https://github.com/josuebrunel/yahoo-oauth
+[Yahoo OAuth](https://github.com/josuebrunel/yahoo-oauth)
 
 Both repos provided their solutions but they did not fit what I wanted. I decided to create my own way of authenticating and querying the api, leveraging some of the work done in the repos.
 
