@@ -19,7 +19,6 @@ title: Projects
 	- About: Enhance my fantasy football experience with data-driven decisions and build a Python module in the process.
 	- [Authentication](https://vicmora.github.io/blog/2017/03/17/yahoo-fantasy-sports-api-authentication)
 	- [GitHub Repo](https://github.com/vicmora/yahoo_fantasy_sports)
-- Fantasy Football Team Selector
 - Security Dashboard
 - Firm Performance Index
 - Travel & Entertainment Forecast
