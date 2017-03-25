@@ -14,6 +14,7 @@ title: Projects
 - Casual Carpool Analysis
 	- About: Analyze and predict Casual Carpool wait times.
 	- [Prep Data](https://vicmora.github.io/blog/2017/03/12/casual-carpool-prep-data)
+	- [Exploratory Analysis](https://vicmora.github.io/blog/2017/03/25/casual-carpool-exploratory-analysis)
 	- [GitHub Repo](https://github.com/vicmora/casual_carpool)
 - Yahoo Fantasy Sports API
 	- About: Enhance my fantasy football experience with data-driven decisions and build a Python module in the process.
