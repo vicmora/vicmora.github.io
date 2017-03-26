@@ -409,7 +409,7 @@ plotly.offline.iplot({
     "layout": layout
 }, show_link=False)
 ```
-Click for interative plot:
+Click for interactive plot:
 
 <a href="/assets/html_files/cc_scatter_plot.html" target="_blank"><img src="/assets/images/cc_scatter_plot.png"></a>
 
@@ -436,7 +436,7 @@ plotly.offline.iplot({
 }, show_link=False)
 ```
 
-Click for interative plot:
+Click for interactive plot:
 
 <a href="/assets/html_files/cc_box_plot.html" target="_blank"><img src="/assets/images/cc_box_plot.png"></a>
 
@@ -732,7 +732,7 @@ plotly.offline.iplot({
 }, show_link=False)
 ```
 
-Click for interative plot:
+Click for interactive plot:
 
 <a href="/assets/html_files/cc_line_plot.html" target="_blank"><img src="/assets/images/cc_line_plot.png"></a>
 

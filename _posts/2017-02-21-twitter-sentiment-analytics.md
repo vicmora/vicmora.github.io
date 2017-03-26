@@ -1034,7 +1034,7 @@ plotly.offline.iplot({
 }, show_link=False)
 ```
 
-Click for interative plot:
+Click for interactive plot:
 
 <a href="/assets/html_files/twitter_bubble_plot.html" target="_blank"><img src="/assets/images/twitter_bubble_plot.png"></a>
 
